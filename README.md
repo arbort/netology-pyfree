@@ -1,2 +1,2 @@
 # netology-pyfree
-All completed homework by Arsenii Bortnikov from course "Python for begginers" in Netology
+Полное описание полследовательного выполнения всего курса Нетологии "Основы программирования на Python" и всех домашних заданий.
